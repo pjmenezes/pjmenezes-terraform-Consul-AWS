@@ -1,0 +1,15 @@
+.terraform.lock.hcl
+module1.tfplan
+/module1/terraform.tfstate.backup
+
+.terraform/
+/module2/consul/data/
+
+.terraform.tfstate
+
+/module3
+/module4
+token.txt
+*.txt
+
+*.tfpan
